@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Phone, Mail, MapPin, MessageCircle, Clock, Instagram, Facebook, Send } from 'lucide-react';
+import OpenStatus from '../components/OpenStatus';
 
 const ContactPage = () => {
   const [formData, setFormData] = useState({
@@ -148,6 +149,12 @@ Message: ${formData.message}`;
                     Operating Hours
                   </h3>
                 </div>
+                
+                {/* Current Status */}
+                <div className="mb-4 p-3 bg-gray-50 rounded-lg">
+                  <OpenStatus />
+                </div>
+                
                 <div className="space-y-3">
                   {operatingHours.map((schedule, index) => (
                     <div key={index} className="flex justify-between items-center py-2 border-b border-gray-100 last:border-b-0">

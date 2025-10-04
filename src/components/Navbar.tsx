@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { ChefHat, Menu, X } from 'lucide-react';
+import OpenStatus from './OpenStatus';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -60,10 +61,18 @@ const Navbar = () => {
           </div>
         </div>
 
+        {/* Open Status Bar */}
+        <div className="hidden md:flex justify-center py-2 bg-gray-50 border-t">
+          <OpenStatus />
+        </div>
+
         {/* Mobile Navigation */}
         {isOpen && (
           <div className="md:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t">
+              <div className="flex justify-center py-2 border-b mb-2">
+                <OpenStatus />
+              </div>
               {navLinks.map((link) => (
                 <Link
                   key={link.name}
