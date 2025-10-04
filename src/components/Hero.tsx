@@ -8,7 +8,7 @@ const Hero = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(/ChatGPT Image Sep 21, 2025, 09_46_00 AM copy copy.png)',
+          backgroundImage: 'url(/hero-bg.webp)',
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-40"></div>
