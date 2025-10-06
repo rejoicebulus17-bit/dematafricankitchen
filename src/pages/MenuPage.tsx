@@ -82,6 +82,7 @@ const menuData = {
           name: "Plantain Porridge Only",
           description: "Plantain, palm oil, seasoning, and leaves.",
           price: "QR 31",
+          image: "/Plantain Porridge Only copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Plantain%20Porridge%20Only.%20My%20delivery%20location%20is%20..."
         }
       ]
@@ -94,6 +95,7 @@ const menuData = {
           name: "Efo Riro (Big Pot)",
           description: "Large pot of spinach stew perfect for gatherings.",
           price: "QR 250",
+          image: "/Efo Riro (Big Pot) copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Efo%20Riro%20Big%20Pot.%20My%20delivery%20location%20is%20..."
         },
         {
@@ -118,18 +120,21 @@ const menuData = {
           name: "Ogbono (Small Pot) + 7 Protein",
           description: "Small pot of ogbono soup with 7 pieces of protein.",
           price: "QR 200",
+          image: "/Ogbono (Small Pot) + 7 Protein copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Ogbono%20Small%20Pot%20with%207%20Protein.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Ogbono (Big Pot) + 10 Protein",
           description: "Large pot of ogbono soup with 10 pieces of protein.",
           price: "QR 250",
+          image: "/Ogbono (Big Pot) + 10 Protein copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Ogbono%20Big%20Pot%20with%2010%20Protein.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Okro (Small Pot) + 5 Protein",
           description: "Small pot of okro soup with 5 pieces of protein.",
           price: "QR 210",
+          image: "/Okro (Small Pot) + 5 Protein copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Okro%20Small%20Pot%20with%205%20Protein.%20My%20delivery%20location%20is%20..."
         },
         {

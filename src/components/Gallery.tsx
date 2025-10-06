@@ -46,6 +46,26 @@ const Gallery = () => {
     {
       src: "/Zobo.png",
       alt: "Refreshing Zobo - Traditional hibiscus drink"
+    },
+    {
+      src: "/Efo Riro (Big Pot) copy.jpg",
+      alt: "Efo Riro - Traditional Nigerian spinach stew in a big pot"
+    },
+    {
+      src: "/Ogbono (Small Pot) + 7 Protein copy.jpg",
+      alt: "Ogbono Soup - Small pot with 7 pieces of protein"
+    },
+    {
+      src: "/Ogbono (Big Pot) + 10 Protein copy.jpg",
+      alt: "Ogbono Soup - Large pot with 10 pieces of protein"
+    },
+    {
+      src: "/Okro (Small Pot) + 5 Protein copy.jpg",
+      alt: "Okro Soup - Small pot with 5 pieces of protein"
+    },
+    {
+      src: "/Plantain Porridge Only copy.jpg",
+      alt: "Plantain Porridge - Traditional Nigerian plantain dish"
     }
   ];
 
