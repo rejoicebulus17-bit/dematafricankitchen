@@ -44,30 +44,35 @@ const menuData = {
           name: "Stew With Beef",
           description: "Tomato, pepper, onion, capsicum.",
           price: "QR 28",
+          image: "/Stew With Beef.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Stew%20With%20Beef.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Black Soup",
           description: "Thick soup with assorted meats, herbs, and spices.",
           price: "QR 20",
+          image: "/Black Soup.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Black%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Afang Soup",
           description: "Traditional Nigerian soup made with afang leaves and assorted proteins.",
           price: "QR 40",
+          image: "/Afang Soup.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Afang%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Edikaikong Soup",
           description: "Delicious vegetable soup with waterleaf and fluted pumpkin leaves.",
           price: "QR 40",
+          image: "/Edikaikong Soup.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Edikaikong%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Groundnut (Peanut) Soup",
           description: "Rich and creamy soup made with groundnuts and assorted proteins.",
           price: "QR 40",
+          image: "/Groundnut (Peanut) Soup.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Groundnut%20Peanut%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {

@@ -8,6 +8,18 @@ const Gallery = () => {
       alt: "Authentic Egusi Soup with rich melon seed base"
     },
     {
+      src: "/Groundnut (Peanut) Soup.jpg",
+      alt: "Rich and creamy Groundnut (Peanut) Soup with assorted proteins"
+    },
+    {
+      src: "/Afang Soup.jpg",
+      alt: "Traditional Afang Soup with fresh afang leaves and proteins"
+    },
+    {
+      src: "/Edikaikong Soup.jpg",
+      alt: "Delicious Edikaikong Soup with waterleaf and fluted pumpkin leaves"
+    },
+    {
       src: "/rice.png",
       alt: "Perfect Jollof Rice with tender chicken"
     },

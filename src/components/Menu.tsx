@@ -35,18 +35,21 @@ const menuData = {
           name: "Afang Soup",
           description: "Traditional Nigerian soup made with afang leaves and assorted proteins.",
           price: "QR 40",
+          image: "/Afang Soup.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Afang%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Edikaikong Soup",
           description: "Delicious vegetable soup with waterleaf and fluted pumpkin leaves.",
           price: "QR 40",
+          image: "/Edikaikong Soup.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Edikaikong%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Groundnut (Peanut) Soup",
           description: "Rich and creamy soup made with groundnuts and assorted proteins.",
           price: "QR 40",
+          image: "/Groundnut (Peanut) Soup.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Groundnut%20Peanut%20Soup.%20My%20delivery%20location%20is%20..."
         }
       ]
