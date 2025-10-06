@@ -11,20 +11,21 @@ const menuData = {
           name: "Banga Soup Only",
           description: "Palm nut fruit, palm oil, and banga spices.",
           price: "QR 30",
+          image: "/Banga Soup Only copy.webp",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Banga%20Soup%20Only.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Ogbono Soup With Protein",
           description: "Ogbono, pepper, crayfish.",
           price: "QR 30",
+          image: "/Ogbono Soup With Protein copy.jpeg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Ogbono%20Soup%20With%20Protein.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Egusi + Protein",
           description: "Ground melon seed stew served with proteins.",
           price: "QR 25",
-          image: "/EGUSI-SOUP 1.png",
-          image: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600",
+          image: "/Egusi + Protein copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Egusi%20with%20Protein.%20My%20delivery%20location%20is%20...",
           popular: true
         },
@@ -32,12 +33,14 @@ const menuData = {
           name: "Ogbono & Egusi",
           description: "A combination of ground ogbono and egusi with meat or fish.",
           price: "QR 30",
+          image: "/Ogbono & Egusi copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Ogbono%20and%20Egusi.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "White Soup + Protein",
           description: "A light clear soup with proteins.",
           price: "QR 30",
+          image: "/White Soup + Protein copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20White%20Soup%20with%20Protein.%20My%20delivery%20location%20is%20..."
         },
         {

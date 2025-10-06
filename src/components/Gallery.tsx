@@ -4,8 +4,24 @@ import { Camera } from 'lucide-react';
 const Gallery = () => {
   const images = [
     {
-      src: "/EGUSI-SOUP 1.png",
+      src: "/Egusi + Protein copy.jpg",
       alt: "Authentic Egusi Soup with rich melon seed base"
+    },
+    {
+      src: "/Banga Soup Only copy.webp",
+      alt: "Traditional Banga Soup with palm nut fruit and spices"
+    },
+    {
+      src: "/Ogbono Soup With Protein copy.jpeg",
+      alt: "Rich Ogbono Soup with ground ogbono seeds and protein"
+    },
+    {
+      src: "/White Soup + Protein copy.jpg",
+      alt: "Light and clear White Soup with assorted proteins"
+    },
+    {
+      src: "/Ogbono & Egusi copy.jpg",
+      alt: "Combination of Ogbono and Egusi soups with mixed proteins"
     },
     {
       src: "/Groundnut (Peanut) Soup.jpg",

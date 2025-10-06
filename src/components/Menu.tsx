@@ -17,12 +17,14 @@ const menuData = {
           name: "Banga Soup",
           description: "Palm nut fruit, palm oil, and banga spices.",
           price: "QR 30",
+          image: "/Banga Soup Only copy.webp",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Banga%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "White Soup",
           description: "A light clear soup with proteins.",
           price: "QR 30",
+          image: "/White Soup + Protein copy.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20White%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
