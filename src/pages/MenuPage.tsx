@@ -153,30 +153,35 @@ const menuData = {
           name: "Pounded Yam",
           description: "Smooth, stretchy yam paste - the perfect companion for Nigerian soups.",
           price: "QR 15",
+          image: "/Pounded Yam copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Pounded%20Yam.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Poundo Yam",
           description: "Smooth pounded yam made from yam flour.",
           price: "QR 10",
+          image: "/Poundo Yam copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Poundo%20Yam.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Yellow Garri",
           description: "Traditional cassava-based swallow made from yellow garri.",
           price: "QR 10",
+          image: "/Yellow Garri copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Yellow%20Garri.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Amala (Yam Fufu)",
           description: "Traditional Yoruba swallow made from yam flour.",
           price: "QAR 15",
+          image: "/Amala (Yam Fufu) copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Amala.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Semolina",
           description: "Smooth wheat-based swallow perfect with any soup.",
           price: "QR 10",
+          image: "/Semolina copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Semolina.%20My%20delivery%20location%20is%20..."
         },
         {

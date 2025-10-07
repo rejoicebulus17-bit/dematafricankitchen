@@ -64,6 +64,26 @@ const Gallery = () => {
       alt: "Okro Soup - Small pot with 5 pieces of protein"
     },
     {
+      src: "/Pounded Yam copy.jpg",
+      alt: "Pounded Yam - Smooth, stretchy yam paste perfect for soups"
+    },
+    {
+      src: "/Poundo Yam copy.jpg",
+      alt: "Poundo Yam - Made from yam flour, smooth and delicious"
+    },
+    {
+      src: "/Yellow Garri copy.jpg",
+      alt: "Yellow Garri - Traditional cassava-based swallow"
+    },
+    {
+      src: "/Amala (Yam Fufu) copy.jpg",
+      alt: "Amala (Yam Fufu) - Traditional Yoruba swallow made from yam flour"
+    },
+    {
+      src: "/Semolina copy.jpg",
+      alt: "Semolina - Smooth wheat-based swallow perfect with any soup"
+    },
+    {
       src: "/Plantain Porridge Only copy.jpg",
       alt: "Plantain Porridge - Traditional Nigerian plantain dish"
     }
