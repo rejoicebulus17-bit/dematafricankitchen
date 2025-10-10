@@ -63,7 +63,7 @@ const menuData = {
           name: "Nigerian Jollof Rice",
           description: "Classic Nigerian jollof rice cooked to perfection.",
           price: "QR 26",
-          image: "/rice.png",
+          image: "/Native Jollof Rice copy copy.webp",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Nigerian%20Jollof%20Rice.%20My%20delivery%20location%20is%20..."
         },
         {
@@ -76,6 +76,7 @@ const menuData = {
           name: "Waakye",
           description: "Ghanaian rice and beans dish cooked with millet leaves for authentic flavor.",
           price: "QR 30",
+          image: "/Waakye copy copy.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Waakye.%20My%20delivery%20location%20is%20..."
         }
       ]

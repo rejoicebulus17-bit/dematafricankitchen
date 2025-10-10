@@ -86,6 +86,26 @@ const Gallery = () => {
     {
       src: "/Plantain Porridge Only copy.jpg",
       alt: "Plantain Porridge - Traditional Nigerian plantain dish"
+    },
+    {
+      src: "/Native Jollof Rice copy copy.webp",
+      alt: "Native Jollof Rice - Traditional jollof rice cooked with native spices and palm oil"
+    },
+    {
+      src: "/Waakye copy copy.jpg",
+      alt: "Waakye - Ghanaian rice and beans dish cooked with millet leaves"
+    },
+    {
+      src: "/Spaghetti Jollof Only copy copy.jpg",
+      alt: "Spaghetti Jollof - Spaghetti cooked in jollof style with Nigerian spices"
+    },
+    {
+      src: "/White Rice with Pepper Soup Side copy copy.jpg",
+      alt: "White Rice with Pepper Soup Side - Plain white rice served with spicy pepper soup"
+    },
+    {
+      src: "/Rice Flour (Ground Rice) copy copy.jpg",
+      alt: "Rice Flour (Ground Rice) - Light swallow made from ground rice flour"
     }
   ];
 

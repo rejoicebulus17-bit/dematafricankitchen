@@ -188,6 +188,7 @@ const menuData = {
           name: "Rice Flour / Ground Rice",
           description: "Light swallow made from ground rice flour.",
           price: "QR 10",
+          image: "/Rice Flour (Ground Rice) copy copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Rice%20Flour%20Ground%20Rice.%20My%20delivery%20location%20is%20..."
         }
       ]
@@ -200,6 +201,7 @@ const menuData = {
           name: "Native Jollof Rice",
           description: "Traditional jollof rice cooked with native spices and palm oil.",
           price: "QR 25",
+          image: "/Native Jollof Rice copy copy.webp",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Native%20Jollof%20Rice.%20My%20delivery%20location%20is%20..."
         },
         {
@@ -213,18 +215,21 @@ const menuData = {
           name: "White Rice with Pepper Soup Side",
           description: "Plain white rice served with a side of spicy pepper soup.",
           price: "QR 35",
+          image: "/White Rice with Pepper Soup Side copy copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20White%20Rice%20with%20Pepper%20Soup%20Side.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Spaghetti Jollof Only",
           description: "Spaghetti cooked in jollof style with Nigerian spices.",
           price: "QR 40",
+          image: "/Spaghetti Jollof Only copy copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Spaghetti%20Jollof%20Only.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Waakye",
           description: "Ghanaian rice and beans dish cooked with millet leaves for authentic flavor.",
           price: "QR 30",
+          image: "/Waakye copy copy.jpg",
           orderLink: "https://wa.me/97471962487?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Waakye.%20My%20delivery%20location%20is%20..."
         }
       ]
