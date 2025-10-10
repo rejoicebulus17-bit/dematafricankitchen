@@ -283,30 +283,35 @@ const menuData = {
           name: "Fried Chicken",
           description: "Crispy fried chicken pieces seasoned with Nigerian spices.",
           price: "QR 15",
+          image: "/Fried Chicken copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Fried%20Chicken.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Fried Fish",
           description: "Fresh fish fried with traditional seasonings.",
           price: "QR 15",
+          image: "/Fried Fish copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Fried%20Fish.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Smoked Titus Fish",
           description: "Premium smoked titus fish with rich flavor.",
           price: "QR 25",
+          image: "/Smoked Titus Fish copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Smoked%20Titus%20Fish.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Turkey (Big)",
           description: "Large portion of tender turkey meat.",
           price: "QR 20",
+          image: "/Turkey (Big) copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Turkey%20Big.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Roasted Turkey Only",
           description: "Perfectly roasted turkey with aromatic spices.",
           price: "QR 25",
+          image: "/Roasted Turkey Only copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Roasted%20Turkey%20Only.%20My%20delivery%20location%20is%20..."
         },
         {

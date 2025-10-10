@@ -126,6 +126,26 @@ const Gallery = () => {
     {
       src: "/Catfish Pepper Soup copy.JPG",
       alt: "Catfish Pepper Soup - Fresh catfish in traditional spicy pepper soup"
+    },
+    {
+      src: "/Fried Chicken copy.jpg",
+      alt: "Fried Chicken - Crispy fried chicken pieces seasoned with Nigerian spices"
+    },
+    {
+      src: "/Fried Fish copy.jpg",
+      alt: "Fried Fish - Fresh fish fried with traditional seasonings"
+    },
+    {
+      src: "/Smoked Titus Fish copy.jpg",
+      alt: "Smoked Titus Fish - Premium smoked titus fish with rich smoky flavor"
+    },
+    {
+      src: "/Turkey (Big) copy.jpg",
+      alt: "Turkey (Big) - Large portion of tender, perfectly seasoned turkey meat"
+    },
+    {
+      src: "/Roasted Turkey Only copy.jpg",
+      alt: "Roasted Turkey - Perfectly roasted turkey with aromatic African spices"
     }
   ];
 
