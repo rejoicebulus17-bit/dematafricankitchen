@@ -106,6 +106,26 @@ const Gallery = () => {
     {
       src: "/Rice Flour (Ground Rice) copy copy.jpg",
       alt: "Rice Flour (Ground Rice) - Light swallow made from ground rice flour"
+    },
+    {
+      src: "/Shaki (Beef Tripe) copy.jpg",
+      alt: "Shaki (Beef Tripe) - Tender beef tripe cooked with traditional spices"
+    },
+    {
+      src: "/Goat Meat Pepper Soup copy.webp",
+      alt: "Goat Meat Pepper Soup - Traditional goat meat in aromatic pepper soup broth"
+    },
+    {
+      src: "/Chicken Pepper Soup copy.jpg",
+      alt: "Chicken Pepper Soup - Tender chicken pieces in spicy pepper soup"
+    },
+    {
+      src: "/Assorted Pepper Soup copy.jpg",
+      alt: "Assorted Pepper Soup - Mixed meat pepper soup with various proteins"
+    },
+    {
+      src: "/Catfish Pepper Soup copy.JPG",
+      alt: "Catfish Pepper Soup - Fresh catfish in traditional spicy pepper soup"
     }
   ];
 

@@ -242,24 +242,28 @@ const menuData = {
           name: "Catfish Pepper Soup",
           description: "Fresh catfish cooked in spicy pepper soup with traditional herbs.",
           price: "QR 40",
+          image: "/Catfish Pepper Soup copy.JPG",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Catfish%20Pepper%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Assorted Pepper Soup",
           description: "Mixed meat pepper soup with assorted proteins and spices.",
           price: "QR 38",
+          image: "/Assorted Pepper Soup copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Assorted%20Pepper%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Chicken Pepper Soup",
           description: "Tender chicken pieces in aromatic pepper soup broth.",
           price: "QR 36",
+          image: "/Chicken Pepper Soup copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Chicken%20Pepper%20Soup.%20My%20delivery%20location%20is%20..."
         },
         {
           name: "Goat Meat Pepper Soup",
           description: "Traditional goat meat pepper soup with authentic spices.",
           price: "QR 40",
+          image: "/Goat Meat Pepper Soup copy.webp",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Goat%20Meat%20Pepper%20Soup.%20My%20delivery%20location%20is%20..."
         }
       ]
@@ -272,6 +276,7 @@ const menuData = {
           name: "Shaki (Beef Tripe)",
           description: "Tender beef tripe cooked to perfection.",
           price: "QR 10",
+          image: "/Shaki (Beef Tripe) copy.jpg",
           orderLink: "https://wa.me/974XXXXXXXX?text=Hi%20Demat%20African%20Kitchen,%20I%27d%20like%20to%20order%20Shaki%20Beef%20Tripe.%20My%20delivery%20location%20is%20..."
         },
         {
